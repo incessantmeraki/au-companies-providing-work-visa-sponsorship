@@ -31,6 +31,7 @@ The links below are of the career pages not the main company website. Some of th
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney, AU | GoLang, C++, Javascript, NodeJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney, AU | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
 
+---
 
 ## Inspired from
 
