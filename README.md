@@ -22,7 +22,6 @@ The links below are of the career pages not the main company website. Some of th
 ## J - L
 - [Lendi](https://lendi.recruiterbox.com/) | Sydney, NSW | Java, Scala, NodeJs, Javascript, SQL, Python
 
-## M - O
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney, NSW / Melbourne, Vic | MongoDB, Angular, React, Javascript, Nodejs
@@ -32,9 +31,6 @@ The links below are of the career pages not the main company website. Some of th
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney, NSW | GoLang, C++, Javascript, NodeJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney, NSW | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
 
-## V - X
-
-## Y - \#
 
 ## Inspired from
 
