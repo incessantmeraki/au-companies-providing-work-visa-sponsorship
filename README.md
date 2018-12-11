@@ -3,7 +3,6 @@
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs.
 
-
 ---
 
 ## A - C
