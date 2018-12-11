@@ -7,29 +7,29 @@ The links below are of the career pages not the main company website. Some of th
 ---
 
 ## A - C
-- [AirTasker](https://www.airtasker.com/careers/) | Sydney, NSW |  Ruby, Ruby on Rails, NodeJs, Javascript, React, Java, Python or Golang
-- [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney, NSW | Java, NodeJs, Javascript, ReactJs
-- [Canva](https://www.canva.com/careers/) | Sydney, NSW | Java, Javascript, NodeJs, ReactJs, Typescript
+- [AirTasker](https://www.airtasker.com/careers/) | Sydney, AU |  Ruby, Ruby on Rails, NodeJs, Javascript, React, Java, Python or Golang
+- [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney, AU | Java, NodeJs, Javascript, ReactJs
+- [Canva](https://www.canva.com/careers/) | Sydney, AU | Java, Javascript, NodeJs, ReactJs, Typescript
 
 ## D - F
-- [Deputy](https://www.deputy.com/au/careers) | Sydney, NSW |  PHP, Javascript, Android, SQL
-- [Envato](https://envato.com/careers/) | Melbourne, Vic | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
+- [Deputy](https://www.deputy.com/au/careers) | Sydney, AU |  PHP, Javascript, Android, SQL
+- [Envato](https://envato.com/careers/) | Melbourne, AU | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
 
 ## G - I
-- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney, NSW / Perth, WA | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
-- [HiPages](https://hipagesgroup.com.au/careers/) | Sydney, NSW | PHP, NodeJs, MySQL, Swift, Objective-C
+- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney, AU / Perth, AU | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
+- [HiPages](https://hipagesgroup.com.au/careers/) | Sydney, AU | PHP, NodeJs, MySQL, Swift, Objective-C
 
 ## J - L
-- [Lendi](https://lendi.recruiterbox.com/) | Sydney, NSW | Java, Scala, NodeJs, Javascript, SQL, Python
+- [Lendi](https://lendi.recruiterbox.com/) | Sydney, AU | Java, Scala, NodeJs, Javascript, SQL, Python
 
 
 ## P - R
-- [Qwilr](https://qwilr.com/jobs/) | Sydney, NSW / Melbourne, Vic | MongoDB, Angular, React, Javascript, Nodejs
-- [Quantium](https://www.quantium.com/careers/) | Sydney , NSW / Melbourne, Vic | Java, Scala, C#
+- [Qwilr](https://qwilr.com/jobs/) | Sydney, AU / Melbourne, AU | MongoDB, Angular, React, Javascript, Nodejs
+- [Quantium](https://www.quantium.com/careers/) | Sydney , AU / Melbourne, AU | Java, Scala, C#
 
 ## S - U
-- [SafetyCulture](https://safetyculture.com/careers/) | Sydney, NSW | GoLang, C++, Javascript, NodeJs
-- [SiteMinder](https://www.siteminder.com/jobs/) | Sydney, NSW | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
+- [SafetyCulture](https://safetyculture.com/careers/) | Sydney, AU | GoLang, C++, Javascript, NodeJs
+- [SiteMinder](https://www.siteminder.com/jobs/) | Sydney, AU | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
 
 
 ## Inspired from
